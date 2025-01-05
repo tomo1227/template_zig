@@ -10,6 +10,8 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        // Zig
+        "ziglang.vscode-zig",
         // yaml, jsonc, json, toml
         "redhat.vscode-yaml",
         "esbenp.prettier-vscode",

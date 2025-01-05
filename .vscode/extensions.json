@@ -1,6 +1,8 @@
 {
   "recommendations": [
-    // yaml, jsonc, json, toml
+    // Zig
+    "ziglang.vscode-zig",
+    // Yaml, Jsonc, Json, Toml
     "redhat.vscode-yaml",
     "esbenp.prettier-vscode",
     "tamasfe.even-better-toml",
@@ -10,7 +12,7 @@
     "mhutchie.git-graph",
     "eamodio.gitlens",
     "seatonjiang.gitmoji-vscode",
-    // markdown
+    // Markdown
     "yzhang.markdown-all-in-one",
     "DavidAnson.vscode-markdownlint",
     "bierner.github-markdown-preview",

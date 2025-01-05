@@ -1,3 +1,3 @@
-FROM mcr.microsoft.com/devcontainers/base:jammy
-RUN apt update && \
-    apt install -y vim curl
+FROM mcr.microsoft.com/devcontainers/base:alpine
+RUN apk update && \
+    apk add vim curl zig
